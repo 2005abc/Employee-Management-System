@@ -43,6 +43,8 @@ Each employee has the following fields:
 - **Gender**
 - **Salary (₹)**
 - **Role**
-
+<h2>📸 Application Screenshot</h2>
   <img width="1366" height="684" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/a0dcb521-087e-4124-b2dc-ca589bc15009" />
+  <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/7cda846f-d8b8-49ee-8f15-8f8ccc162980" />
+
 
